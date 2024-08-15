@@ -120,9 +120,7 @@ form p {
 }
 
 input:focus {
-    &:invalid {
-        border: 2px solid rgb(110, 149, 232);
-    }
+    border: 2px solid rgb(110, 149, 232);
 
 }
 
